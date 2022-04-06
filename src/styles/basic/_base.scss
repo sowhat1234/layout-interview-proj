@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-size: 0.875em;
+  background-color: #1c2230;
+  font-family: open-sans;
+  background-image: url(@/assets/imgs/bg-curvy-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 200% 130%;
+  background-position: bottom;
+}
+
+ul {
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
+
+p,
+h3,
+button,
+h2,
+h4,
+h1,
+span {
+  color: white;
+}
